@@ -12,7 +12,6 @@ import java.security.NoSuchAlgorithmException;
 public class NonConcurrentCheckSumCalculator implements ICheckSumCalculator {
 
   /**
-   *
    * @param file - the file or folder to calculate md5.
    * @return md5 hash
    */
